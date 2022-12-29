@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHl5RjIzgZ6XwGGUsfFWuy+fuR8hOK4fYih/FPbWDLGlrwKYRd9KsksVNrBQFlxoVpkf5GEabltWpBv50pGnew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shaun\\Desktop\\Template\\clean-arc-template\\Core.Domain.Shared\\Core.Domain.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.5\\microsoft.aspnetcore.http.features.5.0.5.nupkg.sha512",
+    "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shaun\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
